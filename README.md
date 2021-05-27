@@ -45,7 +45,7 @@ Not needed for our workshop but, for the future, participants might find useful 
 
 * You might find using keyboard shortcuts more efficient; (`Ctrl`/`Cmd`+)`H` shows you the current bindings.
 
-* Some essential keyboard shortcuts are:
+* Some essential keyboard shortcuts are: {>> need to check that these work in Colab, not Jupypter Notebook<<}
 
     - `Enter`: goes into **Edit** mode on current cell.
 
