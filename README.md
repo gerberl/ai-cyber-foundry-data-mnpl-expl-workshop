@@ -3,10 +3,11 @@
 ## In Preparation for the Workshop
 
 It would be useful for participants to have a Google account and be ready to use Google Colab for the practical side of things. Some suggestions of resources for getting acquainted with [Google Colab](https://colab.research.google.com/) are:
-    - [Introduction to Google Colab](https://youtu.be/inN8seMm7UI): just to giving a feel of what notebooks look like and of the interactivity and exploratory programming aspects; please ignore the Deep Learning stuff.
-    - [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
-    - [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-    - [External Data: Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
+
+- [Introduction to Google Colab](https://youtu.be/inN8seMm7UI): just to giving a feel of what notebooks look like and of the interactivity and exploratory programming aspects; please ignore the Deep Learning stuff.
+- [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
+- [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+- [External Data: Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb)
 
 
 Other resources on practical Data Science and Machine Learning with Python which I tend to recommend to our MSc Data Science students before they start are:
