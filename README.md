@@ -93,7 +93,7 @@ TL;DR: "This is an open-access resource distributed under the terms of the Creat
 
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
-https://creativecommons.org/licenses/by-nc/4.0/
+<!-- https://creativecommons.org/licenses/by-nc/4.0/ -->
 
 
 
