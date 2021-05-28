@@ -77,7 +77,8 @@ Not needed for our workshop but, for the future, participants might find useful 
 <!-- “This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial license, which permits use, distribution, and reproduction in any medium, so long as the resultant use is not for commercial advantage and provided the original work is properly cited.”
 
 https://creativecommons.org/licenses/by-nc/4.0/
+-->
 
- -->
 
 <!-- need the Launch Colab Notebook badge and link here -->
+[![Launch Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerberl/ai-cyber-foundry-data-mnpl-expl-workshop/blob/main/notebooks/GM_AI_Foundry_data_mnpl_expl_python_workshop_May21.ipynb)
