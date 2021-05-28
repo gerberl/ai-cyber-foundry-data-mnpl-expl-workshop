@@ -66,7 +66,7 @@ Not needed for our workshop but, for the future, participants might find useful 
 
 
 
-## Some Additional Tutorial/Reference Resources for Python for Data Science and Machine Learning
+<!-- ## Some Additional Tutorial/Reference Resources for Python for Data Science and Machine Learning -->
 
 <!-- could add here things that are in my lecture notes in week 1 -->
 <!-- content/week-1/7z1018-2021-w1-the_python_data_science_ecosystem.md -->
@@ -80,5 +80,20 @@ https://creativecommons.org/licenses/by-nc/4.0/
 -->
 
 
-<!-- need the Launch Colab Notebook badge and link here -->
-[![Launch Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerberl/ai-cyber-foundry-data-mnpl-expl-workshop/blob/main/notebooks/GM_AI_Foundry_data_mnpl_expl_python_workshop_May21.ipynb)
+
+## Notebooks
+
+You can launch the main notebook for this workshop in Google Colab via 
+[![Launch Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerberl/ai-cyber-foundry-data-mnpl-expl-workshop/blob/main/notebooks/GM_AI_Foundry_data_mnpl_expl_python_workshop_May21.ipynb).
+
+
+## Licensing
+
+TL;DR: "This is an open-access resource distributed under the terms of the Creative Commons Attribution-NonCommercial license which permits use, distribution, and reproduction in any medium so long as the resultant use is not for commercial advantage and provided the original work is properly cited."
+
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+
+
